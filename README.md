@@ -1,6 +1,6 @@
 # GlotCC
 
-<img align="left" src="assets/images/llama-cc.png" width="280" height="280" /> 
+<img align="left" src="assets/images/logo.png" width="300" height="300" /> 
 
 <a href="https://huggingface.co/cis-lmu/glotlid"><img alt="HuggingFace Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-blue"></a>
 <a href="https://github.com/cisnlp/GlotCC/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/cisnlp/GlotCC"></a>
@@ -13,11 +13,10 @@
 
 Current version supports **1000 languages** and is filtered based on adopted filters from C4, CCNet, MADLAD-400, RedPajama-Data-v2, OSCAR, Gopher, RefinedWeb, FineWeb, Datatrove, Dolma, Pile-CC, Pretrainer's Guide, and GlotScript.
 
-™ The logo features a llama with the style of [C.C.](https://codegeass.fandom.com/wiki/C.C.) from the Code Geass anime.
+<a href="https://github.com/cisnlp/GlotLID"><img alt="GlotLID" src="https://img.shields.io/badge/GlotLID-github.com/cisnlp/GlotLID-f5b041.svg"></a> \
+<a href="https://github.com/kargaranamir/ungoliant"><img alt="Ungoliant" src="https://img.shields.io/badge/Ungoliant-github.com/kargaranamir/ungoliant-cacfd2.svg"></a> 
 
-
-<a href="https://github.com/cisnlp/GlotLID"><img alt="GlotLID" src="https://img.shields.io/badge/GlotLID-github.com/cisnlp/GlotLID-f5b041.svg"></a> <br/>
-<a href="https://github.com/kargaranamir/ungoliant"><img alt="Ungoliant" src="https://img.shields.io/badge/Ungoliant-github.com/kargaranamir/ungoliant-cacfd2.svg"></a> <br/>
+™ The logo features a llama with the style of C.C. from the Code Geass.
 
 
 ## Dataset
