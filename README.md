@@ -41,3 +41,29 @@ Current version supports **1000 languages** and is filtered based on adopted fil
 - GlotLID license remains unchanged as the [Apache License 2.0](https://github.com/cisnlp/GlotLID/blob/main/LICENSE).
 
 ## Citation
+
+If you find our repo and data useful for your research, please cite:
+
+GlotCC Dataset:
+
+```js
+@inproceedings{kargaran2023glotcc,
+title        = {Glot{CC}: An Open Multilingual Document-Level CommonCrawl Corpus for the Next Hundreds of Languages},
+author       = {Kargaran, Amir Hossein and Yvon, Fran{\c{c}}ois and Sch{\"u}tze, Hinrich},
+year         = 2024,
+booktitle    = {GitHub},
+url          = {https://github.com/cisnlp/GlotCC/}
+}
+```
+
+GlotLID Language Identification:
+```js
+@inproceedings{kargaran2023glotlid,
+title        = {Glot{LID}: Language Identification for Low-Resource Languages},
+author       = {Kargaran, Amir Hossein and Imani, Ayyoob and Yvon, Fran{\c{c}}ois and Sch{\"u}tze, Hinrich},
+year         = 2023,
+booktitle    = {The 2023 Conference on Empirical Methods in Natural Language Processing},
+url          = {https://openreview.net/forum?id=dl4e3EBz5j}
+}
+```
+
