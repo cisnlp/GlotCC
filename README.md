@@ -29,6 +29,15 @@ Current version supports **1000 languages** and is filtered based on adopted fil
 
 ## Acknowledgements
 
+- We appreciate the collaborators who are collectively advancing the frontier of open datasets and LLM models.
+- Thanks to the community and friends who enable the auditing of this dataset with higher quality. Also, to everyone contributing to the GlotCC dataset.
+- Our gratitude extends to the exceptional team at OSCAR for leading the development of open piplines and datasets from CommonCrawl, and to the remarkable team at CommonCrawl.
+
+
 ## License
+
+- GlotCC data is released under the following licensing scheme: We do not own any of the text from which this data has been extracted. The data is licensed under the terms of the CommonCrawl [Terms of Use](https://commoncrawl.org/terms-of-use). We license the actual packaging, metadata, and annotations of this data under the Creative Commons [CC0 license](https://github.com/cisnlp/GlotCC/blob/main/LICENSE).
+- Ungoliant license remains unchanged as the [Apache License 2.0](https://github.com/kargaranamir/ungoliant/blob/main/LICENSE).
+- GlotLID license remains unchanged as the [Apache License 2.0](https://github.com/cisnlp/GlotLID/blob/main/LICENSE).
 
 ## Citation
