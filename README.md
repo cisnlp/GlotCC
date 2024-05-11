@@ -25,6 +25,8 @@ Current version supports **1000 languages** and is filtered based on adopted fil
 
 ## Running the pipeline
 
+We provide guidance on how to run the pipeline at [kargaranamir/ungoliant](https://github.com/kargaranamir/ungoliant). The readme is up-to-date.
+
 ## Summary of Quality Signals
 
 ## Acknowledgements
