@@ -1,6 +1,6 @@
 # GlotCC
 
-<img align="left" src="assets/images/logo.png" width="300" height="300" /> 
+<img align="left" src="assets/images/logo.jpg" width="300" height="300" /> 
 
 <a href="https://huggingface.co/datasets/cis-lmu/GlotCC-V1"><img alt="HuggingFace Data" src="https://img.shields.io/badge/🤗 Hugging Face-Data-blue"></a>
 <a href="https://github.com/cisnlp/GlotCC/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/license-CC0 1.0-green"></a>
@@ -18,7 +18,7 @@ Current version ([V1](https://huggingface.co/datasets/cis-lmu/GlotCC-V1)) suppor
 <a href="https://github.com/cisnlp/GlotLID"><img alt="GlotLID" src="https://img.shields.io/badge/GlotLID-github.com/cisnlp/GlotLID-orange.svg"></a> \
 <a href="https://github.com/kargaranamir/ungoliant"><img alt="Ungoliant" src="https://img.shields.io/badge/Ungoliant-github.com/kargaranamir/ungoliant-brown.svg"></a> </br>
 
-™ The logo features a llama with the style of C.C. from the Code Geass.
+™ The logo features a llama with the style of C.C. from the Code Geass anime reading a book.
 
 
 ## Dataset
