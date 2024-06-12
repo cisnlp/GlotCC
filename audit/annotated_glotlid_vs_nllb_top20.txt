@@ -1,0 +1,78 @@
+bar-Latn_meta MISS sha1:YUWAWMJA7WJXSQ5EJCZOT5RDZV2Z3SQN https://bar.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser
+eval glotlid 1 call nllb 0 miss
+bavarian wikipedia
+
+wes-Latn_meta MISS sha1:AXNHIE6BZBDIFQIYSU6KDV4S577IMPAE https://www.vitalpina.info/en/our-hotels/request-vitalpina-hotels-south-tyrol-which-one-suits-you/54-810242.html
+eval glotlid 0 call nllb 1 miss
+random english words (or web form content)
+
+ven-Latn_meta tso-Latn_meta sha1:WDUXCJ2F23FZMCNK2CEVD7QKDNQ7SHDH https://globalrecordings.net/id/script/ven/423
+eval glotlid 1 call nllb 0 call
+the URL says "ven" (but tso and ven are both southern bantu)
+
+otw-Latn_meta MISS sha1:IBZCS5IA5WKQX7C46CTXY2S5FXOZZYQO https://www.anishinabek.ca/indian-residential-schools-translated/
+eval glotlid 1 call nllb 0 miss
+found website that claims this is otw: "Eve gii-bzindwaan gnebgoon miinwaa gii-miijin e-miinwang."
+
+fit-Latn_meta fin-Latn_meta sha1:C2UBGRYADGIOOSRQGLF34XVMAMUDVN2H http://liipetti.net/aviisi/2016/07/
+eval glotlid -1 call nllb -1 call
+mixed: contains some swedish
+
+kha-Latn_meta MISS sha1:GSAWMTADCFP2BJJRMPHLCZVVYQREN66G https://wyrta.com/hei-sien-nyngkong-da-tip-yei-tynre-u-thomas-jones-deiwa-thoh-dei-ktien-khasi/
+eval glotlid 1 call nllb 0 miss
+Khasi Author Society
+
+szl-Latn_meta MISS sha1:AAIBZBGDXC2ZN3JXZ75N6XKFLERKLHEI https://szl.wikipedia.org/wiki/Istanbu%C5%82
+eval glotlid 1 call nllb 0 miss
+szl wikipedia
+
+pis-Latn_meta MISS sha1:LDGLLOIPZHR7VBQFKXZX56BTAZXTSNA2 https://www.globalrecordings.net/es/script/pis/425
+eval glotlid 1 call nllb 0 miss
+pis in url, recognizable as similar to tok pisin
+
+goh-Latn_meta deu-Latn_meta sha1:5RTPPOXD6DZ7BPBLXVRMRYEHIRXEJCQN https://libcoll.mpiwg-berlin.mpg.de/libview?tocMode=none&start=161&viewMode=text&mode=imagepath&url=/mpiwg/online/permanent/library/YD9NH338/pageimg&pn=112
+eval glotlid 0 call nllb 0 call
+(middle high german)1595 Besson, Jacques: Theatrum oder Schawbuch allerley Werckzeug und Rüstungen
+
+sms-Latn_meta MISS sha1:RXMGTQ7G2GT6WO7RD34ANPPN5KOXIZ4H https://samediggi.fi/nuo/tuajjlazkadd/joonas-saari-4/
+eval unclear
+pictures suggest sami;google translate recognizes estonian for some sents, finnishfor others on the same website, but it's a finnish url
+
+MISS tzm-Tfng_meta sha1:ZY5JWP4L3IMKJKZIHSDFGH752WVQGKBE https://www.mapnews.ma/am/actualites/%E2%B4%B0%E2%B5%8E%E2%B4%B0%E2%B5%9C%E2%B4%B0%E2%B5%A2/%E2%B4%B0%E2%B5%96%E2%B4%B0%E2%B5%A1%E2%B4%B0%E2%B5%99-%E2%B5%8F-%E2%B5%89%E2%B4%B3%E2%B5%A3%E2%B5%A3%E2%B5%93%E2%B5%8E%E2%B5%8F-%E2%B5%93%E2%B5%8E%E2%B5%99%E2%B5%8F%E2%B5%8F%E2%B5%8A%E2%B5%89-%E2%B5%89%E2%B5%8E%E2%B5%93%E2%B5%9C%E2%B5%9C%E2%B5%89%E2%B5%8F-%E2%B5%9C%E2%B4%B0%E2%B5%8E%E2%B4%B0%E2%B5%94%E2%B5%99%E2%B4%B0%E2%B5%8D%E2%B5%9C-%E2%B5%8E%E2%B5%93%E2%B5%83%E2%B5%8E%E2%B5%8E%E2%B4%B7-%E2%B5%A1%E2%B5%89%E2%B5%99%E2%B5%99-%E2%B5%99%E2%B5%8E%E2%B5%8E%E2%B5%93%E2%B5%99-%E2%B4%B0%E2%B5%99%E2%B5%8F%E2%B5%8E%E2%B4%B0%E2%B5%8D%E2%B4%B0-%E2%B5%8F-%E2%B5%93%E2%B5%8E%E2%B5%A3%E2%B5%A3%E2%B5%89%E2%B5%A3%E2%B5%8D-%E2%B5%8F
+eval glotlid 0 call nllb 1 call
+not clear which tamazight language?
+
+szl-Latn_meta MISS sha1:GKINNOLNLF6ESMPHQYK52LIDKMK23ODK https://szl.wikipedia.org/wiki/Tortefontaine
+eval glotlid 1 call nllb 0 miss
+
+ban-Latn_meta MISS sha1:YOPWIOWFBDFVORIOQRYS4W6F5N4CZMZY https://dictionary.basabali.org/Baudanda
+eval glotlid 1 call nllb 0 miss
+basa bali = balinese = ban
+
+cbk-Latn_meta spa-Latn_meta sha1:FMCA2HW2MODLGYG5NJ2LRKUXNLNWLQXR https://rpnradio.com/zamboanga-2-hvts-ya-aresta-p1-million-shabu-ya-confisca/
+eval glotlid 0 call nllb 1 call
+cbk is spanish-based creole in philippines, but this looks very much like spanish
+
+MISS bho-Deva_meta sha1:LGSOZB6JBSL2ZC7H5226XGGVHQLAFEA4 https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%AA:%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE_%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE
+eval glotlid 0 miss nllb 1 call
+based on bho = bh.wikipedia.org
+
+zea-Latn_meta nld-Latn_meta sha1:JYOX4XDFNAOR6VYGRZ5KKRDYDPMKINBA https://zea.wikipedia.org/wiki/Incourt
+eval glotlid 1 call nllb 0 call
+wikipedia url
+
+tat-Latn_meta crh-Latn_meta sha1:ZPPXXVPC4QOB4IGOPKHHOPE6LLQ5YVWF http://selet.biz/lt/smena5/
+eval glotlid 1 call nllb 0 call
+the website is about kazan in Tatarstan
+
+dzo-Tibt_meta MISS sha1:CZKIFI3SNDRX5LVK2S7AZ7LOAL6BS6X2 http://gasa.gov.bt/index.php/dz/gewogs/lung-ng-n-rged-og-gi-skor
+eval glotlid 1 call nllb 0 miss
+website is a bhutan website (available in dzo and english)
+
+kha-Latn_meta MISS sha1:KZMML6QUMI7QMEXOO4HYBKXUN3GLQFRO https://wyrta.com/ujor-ka-ejnc-wym-biang-i-wan-saam-bai-bordin/
+eval glotlid 1 call nllb 0 miss
+based on categorization of page from same site above
+
+MISS abk-Cyrl_meta sha1:R3GT6CMQCXMJLIXWWTUBOT5CNMU2EXG6 https://www.abaza.org/abk/eventsfeed?d=2024-02-23
+eval glotlid 0 miss nllb 1 call
+based on URL
