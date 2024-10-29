@@ -37,6 +37,7 @@ eval glotlid 0 call nllb 0 call
 sms-Latn_meta MISS sha1:RXMGTQ7G2GT6WO7RD34ANPPN5KOXIZ4H https://samediggi.fi/nuo/tuajjlazkadd/joonas-saari-4/
 eval unclear
 pictures suggest sami;google translate recognizes estonian for some sents, finnishfor others on the same website, but it's a finnish url
+more comment: glotlid predicted correclty the page is in "Nuõrttsääʹmǩiõll"
 
 MISS tzm-Tfng_meta sha1:ZY5JWP4L3IMKJKZIHSDFGH752WVQGKBE https://www.mapnews.ma/am/actualites/%E2%B4%B0%E2%B5%8E%E2%B4%B0%E2%B5%9C%E2%B4%B0%E2%B5%A2/%E2%B4%B0%E2%B5%96%E2%B4%B0%E2%B5%A1%E2%B4%B0%E2%B5%99-%E2%B5%8F-%E2%B5%89%E2%B4%B3%E2%B5%A3%E2%B5%A3%E2%B5%93%E2%B5%8E%E2%B5%8F-%E2%B5%93%E2%B5%8E%E2%B5%99%E2%B5%8F%E2%B5%8F%E2%B5%8A%E2%B5%89-%E2%B5%89%E2%B5%8E%E2%B5%93%E2%B5%9C%E2%B5%9C%E2%B5%89%E2%B5%8F-%E2%B5%9C%E2%B4%B0%E2%B5%8E%E2%B4%B0%E2%B5%94%E2%B5%99%E2%B4%B0%E2%B5%8D%E2%B5%9C-%E2%B5%8E%E2%B5%93%E2%B5%83%E2%B5%8E%E2%B5%8E%E2%B4%B7-%E2%B5%A1%E2%B5%89%E2%B5%99%E2%B5%99-%E2%B5%99%E2%B5%8E%E2%B5%8E%E2%B5%93%E2%B5%99-%E2%B4%B0%E2%B5%99%E2%B5%8F%E2%B5%8E%E2%B4%B0%E2%B5%8D%E2%B4%B0-%E2%B5%8F-%E2%B5%93%E2%B5%8E%E2%B5%A3%E2%B5%A3%E2%B5%89%E2%B5%A3%E2%B5%8D-%E2%B5%8F
 eval glotlid 0 call nllb 1 call
