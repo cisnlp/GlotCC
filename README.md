@@ -2,7 +2,7 @@
 
 <img align="left" src="assets/images/logo.jpg" width="200" height="200" /> 
 
-<a href="https://arxiv.org/abs/2410.xxxxx"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg"></a>
+<a href="https://arxiv.org/abs/2410.23825"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.23825-b31b1b.svg"></a>
 
 
 **GlotCC is a multilingual corpus built by the GlotLID language identification and cisnlp/Ungoliant pipeline from CommonCrawl.** 
@@ -42,7 +42,7 @@ If you find our repo and data useful for your research, please cite:
   author    = {Kargaran, Amir Hossein and Yvon, Fran{\c{c}}ois and Sch{\"u}tze, Hinrich},
   journal   = {Advances in Neural Information Processing Systems},
   year      = {2024},
-  url       = {https://github.com/cisnlp/GlotCC/}
+  url       = {https://arxiv.org/abs/2410.23825}
 }
 ```
 
